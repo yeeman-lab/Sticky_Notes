@@ -39,7 +39,7 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/my-react-app.git
+   git clone https://github.com/yeeman-lab/Sticky_Notes.git
    ```
 
 2. Navigate to the project directory:

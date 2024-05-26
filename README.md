@@ -6,11 +6,11 @@ Sticky Notes is an integrated web application for managing notes, built with Rea
 
 ### Frontend Installation
 
-To install and run the front-end React app, please go to https://github.com/
+To install and run the front-end React app, please go to https://github.com/yeeman-lab/Sticky_Notes/tree/main/my-react-app
 
 ### Backend Installation
 
-To install and run the backend Node.js app, please go to https://github.com/
+To install and run the backend Node.js app, please go to https://github.com/yeeman-lab/Sticky_Notes/tree/main/backend
 
 ## Key Features
 
